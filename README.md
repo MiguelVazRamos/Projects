@@ -1,2 +1,2 @@
-# P
-This repository showcases a variety of data science and advanced analytics projects completed during my Masters at Nova IMS. The projects demonstrate skills in areas such as machine learning, data mining, and data storage. 
+# Projects
+This repository showcases a variety of data science and advanced analytics projects completed during my Masters at Nova IMS. The projects demonstrate skills in areas such as machine learning, data mining, and data storage. Each project includes a detailed description of the problem statement, methodology, and results. Explore the collection to see my experience and expertise in action! 
