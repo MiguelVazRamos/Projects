@@ -1,0 +1,171 @@
+iso,countryname,continent,population(mil),gdp
+ago,Angola,Africa,23.36913109,5988.534997
+bdi,Burundi,Africa,8.766929626,731.4232803
+ben,Benin,Africa,9.199258804,1919.996948
+bfa,Burkina Faso,Africa,15.60521698,1327.216531
+bwa,Botswana,Africa,2.014866114,12256.14159
+caf,Central African Republic,Africa,4.448524952,865.4421867
+cmr,Cameroon,Africa,19.97049522,2684.97289
+cod,Democratic Republic of the Congo,Africa,64.52326202,634.9713963
+cog,Republic of the Congo,Africa,4.386693001,4979.990496
+com,Comoros,Africa,0.68969202,2292.997969
+cpv,Cape Verde,Africa,0.502384007,5644.821253
+dji,Djibouti,Africa,0.851145983,2124.442063
+dza,Algeria,Africa,36.11763763,12590.22422
+egy,Egypt,Africa,84.10760498,9148.839753
+eth,Ethiopia,Africa,87.70266724,1100.183188
+gab,Gabon,Africa,1.640210032,11961.16823
+gha,Ghana,Africa,24.51210403,3931.291832
+gin,Guinea,Africa,10.79417038,1742.734674
+gmb,Gambia,Africa,1.692149043,2681.858617
+gnb,Guinea-Bissau,Africa,1.555879951,1387.249731
+gnq,Equatorial Guinea,Africa,0.951103985,31416.88714
+ken,Kenya,Africa,41.35015106,2484.034909
+lbr,Liberia,Africa,3.948124886,786.6702307
+lso,Lesotho,Africa,2.040550947,2432.797655
+mar,Morocco,Africa,32.40963745,6421.937678
+mdg,Madagascar,Africa,21.15163994,1459.915612
+mli,Mali,Africa,15.07508469,1873.280962
+moz,Mozambique,Africa,24.22140503,969.2307623
+mrt,Mauritania,Africa,3.609543085,3082.647029
+mus,Mauritius,Africa,1.247954965,15178.32592
+mwi,Malawi,Africa,15.16709518,972.0456815
+nam,Namibia,Africa,2.17317009,7689.17124
+ner,Niger,Africa,16.42557716,845.8693682
+nga,Nigeria,Africa,158.5782623,5186.304308
+rwa,Rwanda,Africa,10.24684238,1379.699325
+sdn,Sudan,Africa,34.38596344,3608.785618
+sen,Senegal,Africa,12.91622925,2741.121456
+sle,Sierra Leone,Africa,6.458720207,1161.879694
+swz,Swaziland,Africa,1.202842951,7042.524359
+syc,Seychelles,Africa,0.091404997,17960.35308
+tcd,Chad,Africa,11.88720226,1880.374876
+tgo,Togo,Africa,6.502952099,1222.815053
+tun,Tunisia,Africa,10.63993073,10647.83498
+tza,Tanzania,Africa,44.82893753,1979.171864
+uga,Uganda,Africa,33.91513443,1723.594336
+zaf,South Africa,Africa,51.58466339,11388.64052
+zmb,Zambia,Africa,13.85003281,2870.887266
+zwe,Zimbabwe,Africa,14.08631706,1479.030584
+are,United Arab Emirates,Asia,8.270684242,59707.41257
+arm,Armenia,Asia,2.877310991,8222.945234
+aze,Azerbaijan,Asia,9.032457352,12947.1022
+bgd,Bangladesh,Asia,152.1491089,2411.102069
+bhr,Bahrain,Asia,1.240862012,37045.81311
+brn,Brunei,Asia,0.38866201,67320.89957
+btn,Bhutan,Asia,0.727640986,7235.189748
+chn,China,Asia,1359.755127,9337.290773
+cyp,Cyprus,Asia,0.829446018,28046.37388
+geo,Georgia,Asia,4.231660843,7966.602757
+hkg,Hong Kong,Asia,7.025220871,41687.94642
+ind,India,Asia,1230.980713,4357.059736
+irn,Iran,Asia,74.56751251,17328.45788
+irq,Iraq,Asia,30.76270103,9344.543768
+isr,Israel,Asia,7.42595911,28638.90374
+jor,Jordan,Asia,7.182390213,9351.387283
+jpn,Japan,Asia,128.5518799,36595.63364
+kaz,Kazakhstan,Asia,16.39897537,17908.83993
+kgz,Kyrgyzstan,Asia,5.422337055,3382.463906
+khm,Cambodia,Asia,14.30873966,2330.127208
+kor,South Korea,Asia,49.55285645,31589.70516
+kwt,Kuwait,Asia,2.998083115,67029.5168
+lao,Laos,Asia,6.246273994,4316.969859
+lbn,Lebanon,Asia,4.337141037,18025.24894
+lka,Sri Lanka,Asia,20.19835281,8390.429702
+mac,Macau,Asia,0.536969006,91982.39518
+mdv,Maldives,Asia,0.364511013,12140.80339
+mmr,Burma,Asia,50.15589523,3422.24134
+mng,Mongolia,Asia,2.712650061,7670.714034
+mys,Malaysia,Asia,28.11228943,17913.16441
+npl,Nepal,Asia,27.02313614,1996.196155
+omn,Oman,Asia,3.041460037,40472.67494
+pak,Pakistan,Asia,170.5601807,4171.416562
+phl,Philippines,Asia,93.72662354,5391.233965
+qat,Qatar,Asia,1.779675961,123128.4015
+sau,Saudi Arabia,Asia,27.42567635,42331.65886
+sgp,Singapore,Asia,5.074252129,58618.43503
+syr,Syria,Asia,21.01883316,5700.329439
+tha,Thailand,Asia,67.2088089,12496.24419
+tjk,Tajikistan,Asia,7.641630173,2784.514559
+tkm,Turkmenistan,Asia,5.087210178,16061.42941
+tur,Turkey,Asia,72.32691193,17930.67878
+twn,Taiwan,Asia,23.14094734,37188.89453
+uzb,Uzbekistan,Asia,28.60629463,6574.516725
+vnm,Vietnam,Asia,88.47251129,4428.421402
+yem,Yemen,Asia,23.6067791,4553.557258
+alb,Albania,Europe,2.940525055,9544.739919
+aut,Austria,Europe,8.409949303,40489.80636
+bel,Belgium,Europe,10.93873882,38177.94725
+bgr,Bulgaria,Europe,7.40459013,14906.78496
+bih,Bosnia and Herzegovina,Europe,3.722084045,9049.364733
+blr,Belarus,Europe,9.473071098,16457.02938
+che,Switzerland,Europe,7.831971169,55688.02021
+cze,Czech Republic,Europe,10.53628635,26129.56935
+deu,Germany,Europe,80.89478302,40627.23055
+dnk,Denmark,Europe,5.554843903,43416.22339
+esp,Spain,Europe,46.78863144,31610.98016
+est,Estonia,Europe,1.332101941,20265.5726
+fin,Finland,Europe,5.365781784,38394.06158
+fra,France,Europe,65.14578247,35786.16161
+gbr,United Kingdom,Europe,63.3068428,34810.2812
+grc,Greece,Europe,11.44600487,25815.80077
+hrv,Croatia,Europe,4.328153133,19305.00809
+hun,Hungary,Europe,9.927840233,20477.79857
+irl,Ireland,Europe,4.626927853,47823.50815
+isl,Iceland,Europe,0.320327997,37729.01608
+ita,Italy,Europe,59.72980881,34727.67269
+ltu,Lithuania,Europe,3.1238029,18475.37115
+lux,Luxembourg,Europe,0.507888973,57882.81021
+lva,Latvia,Europe,2.118848085,16943.68832
+mda,Moldova,Europe,4.084480762,4173.634753
+mkd,Macedonia,Europe,2.070739031,11265.64318
+mlt,Malta,Europe,0.416110009,22983.44993
+mne,Montenegro,Europe,0.624284983,14960.94855
+nld,Netherlands,Europe,16.68291664,44004.14602
+nor,Norway,Europe,4.885878086,73262.68174
+pol,Poland,Europe,38.3234024,21006.02731
+prt,Portugal,Europe,10.65232086,25788.27397
+rou,Romania,Europe,20.44034767,16775.60904
+rus,Russia,Asia,143.1538696,21754.0679
+srb,Serbia,Europe,7.291436195,12453.48255
+svk,Slovakia,Europe,5.404294014,23061.12099
+svn,Slovenia,Europe,2.045167923,25831.33129
+swe,Sweden,Europe,9.39016819,40421.90644
+ukr,Ukraine,Europe,45.79249954,8713.259627
+abw,Aruba,NorthAmerica,0.101668999,37059.34144
+aia,Anguilla,NorthAmerica,0.013769,21098.05715
+atg,Antigua and Barbuda,NorthAmerica,0.094660997,17162.16103
+bhs,Bahamas,NorthAmerica,0.360832006,29504.58135
+blz,Belize,NorthAmerica,0.321608007,7145.952548
+bmu,Bermuda,NorthAmerica,0.063956,51447.14748
+brb,Barbados,NorthAmerica,0.279569,13995.6129
+can,Canada,NorthAmerica,34.16866684,40269.03527
+cri,Costa Rica,NorthAmerica,4.54527998,12106.99192
+cuw,Curaçao,NorthAmerica,0.147607997,24337.81618
+cym,Cayman Islands,NorthAmerica,0.055507001,36670.67848
+dma,Dominica,NorthAmerica,0.071439996,9101.99373
+dom,Dominican Republic,NorthAmerica,9.897985458,11500.13134
+grd,Grenada,NorthAmerica,0.104676999,9791.291133
+gtm,Guatemala,NorthAmerica,14.63041687,6359.262685
+hnd,Honduras,NorthAmerica,8.194778442,3789.910225
+hti,Haiti,NorthAmerica,9.999616623,1650.269713
+jam,Jamaica,NorthAmerica,2.817209959,6675.176956
+kna,Saint Kitts and Nevis,NorthAmerica,0.051445,17837.34976
+lca,Saint Lucia,NorthAmerica,0.172580004,9178.266991
+mex,Mexico,NorthAmerica,117.3189392,14507.01192
+msr,Montserrat,NorthAmerica,0.004944,15385.00299
+nic,Nicaragua,NorthAmerica,5.737722874,3992.761908
+pan,Panama,NorthAmerica,3.643222094,15055.23759
+slv,El Salvador,NorthAmerica,6.164626122,6096.958357
+tca,Turks and Caicos Islands,NorthAmerica,0.030994,7230.966075
+tto,Trinidad and Tobago,NorthAmerica,1.328099966,27510.23619
+usa,United States,NorthAmerica,308.6413879,49500.62628
+vct,Saint Vincent and the Grenadines,NorthAmerica,0.109315,8095.219231
+vgb,British Virgin Islands,NorthAmerica,0.027224001,21183.27917
+aus,Australia,Oceania,22.12006378,44854.90005
+fji,Fiji,Oceania,0.859950006,6902.068772
+nzl,New Zealand,Oceania,4.370061874,30867.05438
+arg,Argentina,SouthAmerica,41.2238884,15841.65821
+bol,Bolivia,SouthAmerica,9.918242455,4806.608983
+bra,Brazil,SouthAmerica,196.7962646,13541.46256
+chl,Chile,SouthAmerica,16.9933548,18092.94007
