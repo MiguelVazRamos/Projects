@@ -1,0 +1,1 @@
+{"class":"org.apache.spark.ml.feature.VectorAssembler","timestamp":1686490520295,"sparkVersion":"3.3.2","uid":"VectorAssembler_c737f214a7ed","paramMap":{"outputCol":"continuous_features","inputCols":["frequency","total_paid","recency","proportion_checkout_orders","avg_delivery_fee"]},"defaultParamMap":{"handleInvalid":"error","outputCol":"VectorAssembler_c737f214a7ed__output"}}
